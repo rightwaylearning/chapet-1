@@ -1,7 +1,6 @@
 package test.examples;
 
-public class Test {
-<<<<<<< HEAD
+public class dhanashri {
 	public static void main(String[] abc) {
 		String s="message";
 		
